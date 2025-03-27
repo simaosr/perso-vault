@@ -1,0 +1,5 @@
+- [ ] Ovos
+- [ ] Legumes
+- [ ] Yogurtes
+- [ ] Vinagre lavagem
+- [ ] 

@@ -1,0 +1,37 @@
+- [x] pyStarCCM git repository
+- [ ] git repository with
+	- [x] Optimization example scripts
+		- [x] 2D airfoil example
+	- [x] Postprocessing scripts
+		- [x] Python scripts for creating/displaying databases
+		- [x] Java cripts for exporting data from StarCCM simulations
+	- [x] BFM 
+		- [x] java macro to implement
+		- [x] Documentation and how-to use guide
+		- [x] examples in 2D and 3D
+	- [x] PANDO run scripts
+	- [x] DGEN folder with
+		- [x] Geometry inputs and pre-processing scripts
+		- [x] BFM tables
+		- [ ] Simulation examples
+		- [x] post-processing scripts and results database (created for the ISABE paper)
+	- [x] ULTIMATE folder with
+		- [x] BFM tables
+		- [x] Geometries and pre-processing scripts
+		- [x] BFM simulation in 2D example
+- [ ] PANDO folder with
+	- [ ] Simulations for:
+		- [ ] IMOTHEP
+			- [x] BFM 360 (EB1)
+			- [x] BFM axisym (EB1)
+			- [x] BFM wedge (EB1)
+			- [x] TB8
+				- [x] Multiple simulations with different s-ducts
+				- [x] Straight duct simulation for comparison with TB's data
+					- [x] With distortion
+					- [x] Without distortion
+		- [ ] DGEN
+			- [x] Offset study
+			- [x] Straight validation
+
+All will come with readme.md files, explaining folder contents and with all necessary information about its contents.
