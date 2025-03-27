@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viagem Gerês/Planeamento.md",
+                "file": "Cycling/Canal du Midi/General.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Planeamento"
+              "title": "General"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viagem Gerês/Planeamento.md",
+                "file": "Cycling/Canal du Midi/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Planeamento"
+              "title": "Backlinks for General"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viagem Gerês/Planeamento.md",
+                "file": "Cycling/Canal du Midi/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Planeamento"
+              "title": "Outgoing links from General"
             }
           },
           {
@@ -142,21 +142,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viagem Gerês/Planeamento.md",
+                "file": "Cycling/Canal du Midi/General.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Planeamento"
+              "title": "Outline of General"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,17 +164,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "8f3676e90d6658a3",
   "lastOpenFiles": [
+    "G14 linux/Soluções de problemas.md",
+    "Cycling/Canal du Midi/General.md",
+    "G14 linux/Linux Tips and Tricks.md",
+    "G14 linux/Installed.md",
+    "Viagem Gerês/Planeamento.md",
+    "Cycling/Canal du Midi",
+    "Cycling",
+    "Hiking/GR 2025",
+    "Hiking",
     "Viagem Gerês/Alojamentos.md",
     "Academic/Rreview aerospace.md",
     "Academic/ASO.md",
-    "G14 linux/Soluções de problemas.md",
-    "G14 linux/Linux Tips and Tricks.md",
-    "G14 linux/Installed.md",
     "GR33/Equipamento.md",
     "GR33/Planeamento de Rota.md",
     "SUPAERO/BFM/BFM on StarCCM+.md",
@@ -204,17 +210,11 @@
     "Moving to Tolouse/To-do List.md",
     "Random/Cultura Francesa.md",
     "Random/Others.md",
-    "Random/Shopping list.md",
-    "Random/Lista de Filmes.md",
     "_resources",
     "Academic",
     "G14 linux",
     "GR33",
     "Moving to Tolouse",
-    "Random",
-    "SUPAERO/Admin",
-    "SUPAERO/s-ducts",
-    "SUPAERO/Design & Optimization",
-    "SUPAERO/Star-CCM+"
+    "Random"
   ]
 }
